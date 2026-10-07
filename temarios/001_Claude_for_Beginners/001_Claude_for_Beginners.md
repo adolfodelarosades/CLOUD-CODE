@@ -22,7 +22,7 @@ Al finalizar, sabrás configurar un perfil para evitar repetir información cont
 
 En la sección de recursos que aparece a continuación se incluyen los siguientes archivos:
 
-**Archivos de ejercicios**: para practicar y completar las actividades del curso.
+[Archivos de ejercicios](https://github.com/adolfodelarosades/CLOUD-CODE/tree/main/temarios/001_Claude_for_Beginners/ExerciseFiles): para practicar y completar las actividades del curso.
 
 
 
