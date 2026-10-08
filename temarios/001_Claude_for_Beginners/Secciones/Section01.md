@@ -17,11 +17,19 @@ Herramientas y funciones disponibles. Comenzaremos con lo básico, qué es Claud
 
 Esta es la base sobre la que se construye todo lo demás. A partir de ahí, pasaremos a la personalización, cómo configurar su perfil, usar la memoria y Dale instrucciones a Claude para que entienda el contexto incluso antes de que hayas escrito una sola palabra. inmediato. Luego pasaremos a elegir el modelo adecuado, trabajar con archivos e imágenes,
 
-Utilizar la búsqueda web, el modo de investigación y sacar el máximo provecho de los artefactos y proyectos. A continuación, echa un vistazo a cómo obtener mejores resultados con Claude y cómo ampliarlo. El alcance de Claude con los conectores. También hay dos ejercicios integrados en el curso, dándote la oportunidad de poner en práctica lo que aprendes. También conviene ser claros
+Utilizar la búsqueda web, el modo de investigación y sacar el máximo provecho de los artefactos y proyectos. A continuación, echa un vistazo a cómo obtener mejores resultados con Claude y cómo ampliarlo. El alcance de Claude con los conectores. 
 
-sobre lo que este curso no cubre. No cubriremos Claude Cowork, la función que deja que Claude trabaje de forma autónoma en tus archivos y aplicaciones locales, y nosotros tampoco lo haremos. Estaremos hablando de Claude Code, la herramienta de Anthropic para desarrolladores que trabajan directamente en una terminal. ambiente. Y no vamos a entrar en la API de Claude ni en nada que requiera un conocimiento realmente profundo.
+<img width="1156" height="558" alt="image" src="https://github.com/user-attachments/assets/60d384fe-456b-48ad-ba02-d524af02f73b" />
 
-antecedentes técnicos. Este curso está diseñado para usuarios empresariales cotidianos, no para desarrolladores. Un par de consejos prácticos antes de empezar. Este curso funciona mejor si sigues junto con Claude Abrir en otra ventana. La mayoría de las lecciones incluyen una grabación de pantalla, donde puedes replicar tareas en tiempo real o, como estamos explicando la interfaz, puedes usa a Claude. Y los ejercicios están diseñados para completarse a medida que avanzas. Eso es todo gestión interna. Empecemos.
+También hay dos ejercicios integrados en el curso, dándote la oportunidad de poner en práctica lo que aprendes. 
+
+También conviene ser claros sobre lo que este curso no cubre. No cubriremos **Claude Cowork**, la función que deja que Claude trabaje de forma autónoma en tus archivos y aplicaciones locales, y nosotros tampoco lo haremos. Estaremos hablando de Claude Code, la herramienta de **Anthropic** para desarrolladores que trabajan directamente en una terminal. Y no vamos a entrar en la **API de Claude** ni en nada que requiera un conocimiento realmente profundo.
+
+Antecedentes técnicos. 
+
+<img width="1153" height="591" alt="image" src="https://github.com/user-attachments/assets/b5a02b69-4479-45b1-8e0e-758e89569e98" />
+
+Este curso está diseñado para usuarios empresariales cotidianos, no para desarrolladores. Un par de consejos prácticos antes de empezar. Este curso funciona mejor si sigues junto con Claude Abrir en otra ventana. La mayoría de las lecciones incluyen una grabación de pantalla, donde puedes replicar tareas en tiempo real o, como estamos explicando la interfaz, puedes usa a Claude. Y los ejercicios están diseñados para completarse a medida que avanzas. Eso es todo gestión interna. Empecemos.
 
 
 ## Meet Claude 5m 23s
