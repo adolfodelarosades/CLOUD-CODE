@@ -25,59 +25,32 @@ En la sección de recursos que aparece a continuación se incluyen los siguiente
 [Archivos de ejercicios](https://github.com/adolfodelarosades/CLOUD-CODE/tree/main/temarios/001_Claude_for_Beginners/ExerciseFiles): para practicar y completar las actividades del curso.
 
 
+## Course Outline
 
-Resources
-Supplemental Content
-Course Outline
+### Section 1: Introduction
 
-Course Welcome
+* Course Welcome
+* Meet Claude
 
-Complete
-Meet Claude
+### Section 2: Getting Started
 
-Complete
+* Navigating the Interface
+* Personalising Claude
+  7m 57s
 
+### Section 3: Core Capabilities 27m
 
-###
+* Choosing the Right Model 5m 58s
+* Working with Files, Images & Web Search 4m 8s
+* Artifacts & Projects 8m 15s
+* Exercise 1 8m 46s
 
-Navigating the Interface
+### Section 4: Prompting and Extending Claude 20m
 
-Complete
-Personalising Claude
+* Getting Better Results from Claude 8m 19s
+* Connectors 6m 41s
+* Exercise 2 5m 30s
 
-7m 57s remaining
+### Section 5: Conclusion 3m
 
-###
-
-Choosing the Right Model
-
-5m 58s
-Working with Files, Images & Web Search
-
-4m 8s remaining
-Artifacts & Projects
-
-8m 15s
-Exercise 1
-
-8m 46s
-
-###
-
-Getting Better Results from Claude
-
-8m 19s
-Connectors
-
-6m 41s
-Exercise 2
-
-5m 30s
-
-###
-
-Conclusion
-
-2m 46s
-Archivos de ejercicios: para practicar y completar las actividades del curso.
-
+* Conclusion 2m 46s
