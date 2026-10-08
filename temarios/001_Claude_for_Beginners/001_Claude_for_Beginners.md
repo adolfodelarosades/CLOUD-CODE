@@ -1,6 +1,8 @@
 
 # Claude for Beginners
 
+<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/01ffbdcf-d040-46d1-8064-656de38ef55b" />
+
 * Simon Sez IT
 
 * Published by Simon Sez IT
@@ -29,14 +31,13 @@ En la sección de recursos que aparece a continuación se incluyen los siguiente
 
 ### Section 1: Introduction
 
-* Course Welcome
-* Meet Claude
+* Course Welcome 2m 8s
+* Meet Claude 5m 23s
 
 ### Section 2: Getting Started
 
-* Navigating the Interface
-* Personalising Claude
-  7m 57s
+* Navigating the Interface 9m 46s
+* Personalising Claude 7m 57s
 
 ### Section 3: Core Capabilities 27m
 
