@@ -29,7 +29,7 @@ En la sección de recursos que aparece a continuación se incluyen los siguiente
 
 ## Course Outline
 
-### Section 1: Introduction
+### [Section 1: Introduction](https://github.com/adolfodelarosades/CLOUD-CODE/blob/main/temarios/001_Claude_for_Beginners/Secciones/Section01.md)
 
 * Course Welcome 2m 8s
 * Meet Claude 5m 23s
